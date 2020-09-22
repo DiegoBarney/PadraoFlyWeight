@@ -1,0 +1,13 @@
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\bin\Debug\netcoreapp3.1\FlyWeight.exe
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\bin\Debug\netcoreapp3.1\FlyWeight.deps.json
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\bin\Debug\netcoreapp3.1\FlyWeight.runtimeconfig.json
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\bin\Debug\netcoreapp3.1\FlyWeight.runtimeconfig.dev.json
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\bin\Debug\netcoreapp3.1\FlyWeight.dll
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\bin\Debug\netcoreapp3.1\FlyWeight.pdb
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\obj\Debug\netcoreapp3.1\FlyWeight.csprojAssemblyReference.cache
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\obj\Debug\netcoreapp3.1\FlyWeight.AssemblyInfoInputs.cache
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\obj\Debug\netcoreapp3.1\FlyWeight.AssemblyInfo.cs
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\obj\Debug\netcoreapp3.1\FlyWeight.csproj.CoreCompileInputs.cache
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\obj\Debug\netcoreapp3.1\FlyWeight.dll
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\obj\Debug\netcoreapp3.1\FlyWeight.pdb
+C:\Users\komyh\source\repos\FlyWeight\FlyWeight\obj\Debug\netcoreapp3.1\FlyWeight.genruntimeconfig.cache
